@@ -56,10 +56,10 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
   <img src="./assets/integrantes/integrante1.jpg" alt="Foto integrante 1" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Juan Diego Ruiz Trejo
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
+- **Correo institucional:** Jruiztr@unal.edu.co
+- **Usuario de GitHub:** [Jruiztr28](https://github.com/Jruiztr28)
 - **Rol en el equipo:** Ej. Integración ROS 2, documentación, simulación
 - **Intereses:** Robótica móvil, visión artificial, automatización
 - **Descripción breve:**  
@@ -72,10 +72,10 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
   <img src="./assets/integrantes/integrante2.jpg" alt="Foto integrante 2" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Carlos Daniel Guzmán Sandoval
 - **Carrera:** Ingeniería Mecatrónica
 - **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
+- **Usuario de GitHub:** [carlosguzmans](https://github.com/carlosguzmans)
 - **Rol en el equipo:** Ej. Modelado, programación, control
 - **Intereses:** Manipulación, ROS 2, control de robots
 - **Descripción breve:**  
